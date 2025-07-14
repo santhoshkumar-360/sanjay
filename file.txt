@@ -1,0 +1,22 @@
+header :
+top right: name, left :6 names
+backround:color
+
+images 3 with description
+
+next:
+name-> c entre
+your impact in numbers:
+
+joinus volunter C
+what support C
+last:
+form :
+name          email      
+amount        select cause
+message
+ donate now button
+get in touch C
+emailhe
+footer:
+copyrights
